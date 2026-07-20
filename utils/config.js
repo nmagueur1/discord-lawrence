@@ -45,6 +45,6 @@ module.exports = {
 
   // -- Branding --------------------------------
   // Banniere officielle Famille Lawrence (utilisee sur TOUS les embeds via .setImage)
-  // A remplacer par l'URL de votre banniere
-  bannerUrl: '',
+  // Remplace par l'URL de ta banniere des que tu en as une (une chaine vide fait planter .setImage)
+  bannerUrl: null,
 };
